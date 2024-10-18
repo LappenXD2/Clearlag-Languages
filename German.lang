@@ -136,7 +136,7 @@ command.profile.started({time})=&6[&aClearLag&6] &aProfiler gestartet, lÃ¤uft fÃ
 command.reload.name()=reload
 command.reload.usage()=
 command.reload.desc()=(Reloads clearlag)
-command.reload.begin()=&6[&aClearLag&6] &bVersuche Module ne zu laden...
+command.reload.begin()=&6[&aClearLag&6] &bVersuche Module neu zu laden...
 command.reload.successful()=&6[&aClearLag&6] &bModule wurden neu geladen!
 
 ##]-> /lagg samplememory
